@@ -1,6 +1,6 @@
 from random import sample
 
-
+# some comment from clone
 def get_validated_guess(guessed_letters: str, correct_guesses: str) -> str:
     '''
     Asks users input and returns if input is valid.
